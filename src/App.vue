@@ -46,6 +46,7 @@ export default Vue.extend({
     };
 
     // TODOs chart Change to Plugin(by Offical Document guide : $_name)
+    // uri: https://www.chartjs.org/docs/latest/getting-started/integration.html#bundlers-webpack-rollup-etc
     // const chart = new this.$_Chart(ctx, config);
 
     // eslint-disable-next-line
